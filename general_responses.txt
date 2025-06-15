@@ -1,0 +1,3 @@
+# Respon Umum
+salam: Halo!, Hai, ada yang bisa saya bantu?, Selamat datang!, Hai!, Apa kabar?, Senang berjumpa!
+pamit: Sampai jumpa!, Terima kasih sudah bertanya!, Senang membantu!, Dah!, Baik, sampai jumpa lagi!, Sampai bertemu kembali!

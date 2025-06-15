@@ -1,0 +1,49 @@
+# Makanan Khas Daerah Seluruh Indonesia (Representatif)
+
+# --- Sumatera ---
+aceh: mie aceh, nasi gurih, ayam tangkap, martabak aceh, sate matang, pliek u
+medan: soto medan, mie gomak, bika ambon, bolu meranti, arsik ikan mas, lontong medan, nasi goreng medan
+padang: rendang, nasi padang, sate padang, dendeng balado, ayam pop, kalio, gulai kepala ikan, terong balado, tunjang, sambal ijo
+palembang: pempek, tekwan, model, lenggang, laksan, celimpungan, martabak har, pindang patin, mie celor
+lampung: seruit, gabing, gulai taboh, pindang patin lampung, tempoyak, keripik pisang
+riau: gulai belacan, mie sagu, nasi lemak, roti jala, asam pedas patin
+jambi: tempoyak ikan patin, gulai ikan patin, nasi gemuk, bubur kampiun, dodol nanas
+bengkulu: pendap, tempoyak udang, lempuk durian, gulai kembaang
+bangka belitung: mie bangka, lempah kuning, otak-otak bangka, getas, kemplang
+
+# --- Jawa ---
+jakarta: kerak telor, soto betawi, nasi uduk betawi, ketoprak, asinan betawi, gabus pucung, gulai tikungan, semur jengkol, bir pletok, laksa betawi
+bandung: seblak, batagor, cilok, cireng, karedok, gehu, surabi, colenak, mie kocok bandung, nasi timbel, es doger, combro, misro
+jogja: gudeg, sate klathak, bakpia pathok, oseng mercon, tiwul, brongkos, pecel lele khas jogja, wedang uwuh, nasi kucing angkringan, geplak, yangko
+semarang: lumpia semarang, nasi ayam semarang, bandeng presto, wingko babat, tahu gimbal, soto bangkong, wedang tahu, es puter, kue moci
+solo: nasi liwet solo, selat solo, serabi solo, timlo solo, tengkleng, sate buntel, intip solo
+surabaya: rawon, rujak cingur, sate klopo, lontong balap, tahu tek, semanggi, soto lamongan, nasi bebek sinjay, soto ayam ambengan, tahu campur
+malang: bakso malang, cwie mie malang, rawon malang, pecel malang, ronde, es teler, bakso bakar, soto daging malang, es kacang ijo, tempe penyet
+banyuwangi: rujak soto, nasi tempong, pecel rawon, soto banyuwangi, sego cawuk
+madura: sate madura, soto madura, nasi bebek madura, kaldu kokot
+
+# --- Kalimantan ---
+pontianak: chai kue, bubur pedas, pengkang, choi pan, lempok durian pontianak
+banjarmasin: soto banjar, nasi kuning banjar, ketupat kandangan, mandai, bingka
+samarinda: amplang, sate payau (rusa), nasi bekepor, gence ruan
+balikpapan: kepiting soka, mantau, pisang gapit
+palangkaraya: juhu singkah, kalakai, keripik kelakai
+
+# --- Sulawesi ---
+makassar: coto makassar, konro, pallubasa, pisang epe, es pisang ijo, jalangkote, barongko, sop saudara, mie titi
+manado: tinutuan (bubur manado), cakalang fufu, mie cakalang, klappertaart, paniki (kelelawar), rica-rica roa, sate ragey
+palu: kaledo, uta dada, duo roa, pampis
+gorontalo: bilitie, binte biluhuta, ilabulo, sate tuna
+kendari: sinonggi, lapa-lapa, kabuto
+
+# --- Bali & Nusa Tenggara ---
+bali: sate lilit, ayam betutu, babi guling (non-halal), lawar, nasi campur bali, jukut urab, plecing kangkung, tipat cantok, sate plecing, rujak kuah pindang
+lombok: ayam taliwang, plecing kangkung lombok, sate rembiga, bebalung, nasi balap puyung
+kupang: sei babi (non-halal), jagung bose, ikan bakar kuah asam, katemak
+sumba: ikan bakar sumba, mbolang, jagung titi
+
+# --- Maluku & Papua ---
+ambon: papeda, ikan kuah kuning, kohu-kohu, gohu ikan, kasbi
+ternate: gohu ikan, papeda ikan, nasi jaha, air guraka
+jayapura: papeda, ikan bakar colo-colo, sagu lempeng, keladi tumbuk
+merauke: papeda ikan kuah kuning, ulat sagu (ekstrem), ikan bakar bumbu kuning

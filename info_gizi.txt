@@ -1,0 +1,5 @@
+# Info Gizi
+tinggi kalori: protein dan lemak hewani (daging merah, ikan berlemak, telur, keju, mentega), kacang-kacangan dan biji-bijian (almond, walnut), alpukat, minyak zaitun, pasta, ubi jalar, pisang, roti gandum, sereal
+tinggi protein: dada ayam, ikan, telur, tahu, tempe, daging sapi, susu, yogurt, brokoli, quinoa, kacang merah, lentil
+rendah kalori: sayuran hijau (bayam, selada), buah-buahan (apel, jeruk, semangka, stroberi), dada ayam tanpa kulit, ikan putih, tahu, agar-agar, sup bening, oatmeal
+tinggi serat: gandum utuh, sayuran berdaun hijau, buah-buahan dengan kulit (apel, pir), kacang-kacangan, biji-bijian, ubi jalar, jagung, beras merah, brokoli

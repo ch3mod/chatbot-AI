@@ -1,0 +1,10 @@
+# Saran Menu Harian
+
+# --- Menu Pagi ---
+pagi: nasi uduk, bubur ayam, roti bakar, telur ceplok, bubur kacang hijau, lontong sayur, sereal susu, omelet sayur, roti gandum selai kacang, pancake dengan buah, soto ayam bening, nasi goreng kampung, bubur kacang ijo, arem-arem, kroket kentang
+
+# --- Menu Siang ---
+siang: soto ayam, nasi campur, pecel lele, mie ayam, gado-gado, bakso, nasi goreng, ayam bakar, sate kambing, iga bakar, sop buntut, nasi rawon, nasi pecel, soto betawi, mie rebus, capcay, tongseng ayam, ikan bakar sambal matah, nasi kuning lauk lengkap
+
+# --- Menu Malam ---
+malam: tumis kangkung + ayam goreng, sop iga, nasi goreng, bakso, martabak telur, sate ayam, kwetiau goreng, capcay, tongseng, mie rebus, ayam bakar, nasi pecel, sayur asem dengan tempe goreng, bubur kacang hijau, ayam goreng mentega, udang saus padang, tumis brokoli, nasi goreng seafood
