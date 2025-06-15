@@ -92,7 +92,3 @@ Anda bisa mencoba berbagai pertanyaan berikut:
 * `Makanan khas Jogja apa?`
 * `Halo`
 * `Terima kasih`
-
-## Lisensi
-
-Proyek ini dilisensikan di bawah Lisensi MIT. Lihat file [LICENSE](LICENSE) untuk detail lebih lanjut.
